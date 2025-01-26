@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+.main{
+	width:70vw;
+	height:25vh;
+	background-color:gray;
+	border-radius:15px;
+	border:2px solid black;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	gap:2vw
+	
+	
+}
+.round{
+	width:12vw;
+	height:15vh;
+	border-radius:100%;
+	text-align:center;
+	
+	
+}
+#diva{
+	background-color:green;
+}
+#divb{
+	background-color:yellow;
+}
+#divc{
+	background-color:red;
+}
