@@ -10,7 +10,7 @@
   gap: 2vw;
 }
 
-#green {
+.green {
   background-color: green;
   width: 12vw;
   height: 15vh;
@@ -18,14 +18,14 @@
   border: 1px solid black;
 }
 
-#yellow {
+.yellow {
   background-color: yellow;
   width: 12vw;
   height: 15vh;
   border-radius: 100%;
 }
 
-#red {
+.red {
   background-color: red;
   width: 12vw;
   height: 15vh;
