@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.main{
+.container{
 	width:70vw;
 	height:25vh;
 	background-color:gray;
@@ -12,20 +12,24 @@
 	
 	
 }
-.round{
+
+#green{
+	background-color:green;width:12vw;
+	height:15vh;
+	border-radius:100%;
+	border:1px solid black;
+}
+#yellow{
+	background-color:yellow;
+	width:12vw;
+	height:15vh;
+	border-radius:100%;
+	
+}
+#red{
+	background-color:red;
 	width:12vw;
 	height:15vh;
 	border-radius:100%;
 	text-align:center;
-	
-	
-}
-#diva{
-	background-color:green;
-}
-#divb{
-	background-color:yellow;
-}
-#divc{
-	background-color:red;
 }
